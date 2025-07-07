@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9727df92.css",
+    "main.js": "/static/js/main.6ed20771.js",
+    "static/media/Panthera.ttf": "/static/media/Panthera.f5aba428704d7a0cfa95.ttf",
+    "index.html": "/index.html",
+    "main.9727df92.css.map": "/static/css/main.9727df92.css.map",
+    "main.6ed20771.js.map": "/static/js/main.6ed20771.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9727df92.css",
+    "static/js/main.6ed20771.js"
+  ]
+}
